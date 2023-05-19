@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%20am%20Jia%20Min&fontSize=90&animation=fadeIn&fontAlignY=38" alt="header">
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jiamin88" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/Jiamin88?style=social" alt="Follow">
-</p>
-
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 
 <h3>💻 GitHub Profile Stats</h3>
