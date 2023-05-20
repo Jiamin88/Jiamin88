@@ -13,9 +13,18 @@
 </p>
 
 <p align="center">
- 📧 &emsp; Reach me anytime: jeejiamin@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Jiamin88/Jiamin88/issues)
+  💬 &emsp; Ask me about anything
+  <a href="https://github.com/Jiamin88/Jiamin88/issues">here </a>
 </p>
+
+<p align="center"> 
+  📧 &emsp; Reach me anytime:
+  <a href = "mailto: jeejiamin@gmail.com">jeejiamin@gmail.com</a>
+</p>
+
+<!-- 📧 &emsp; Reach me anytime: jeejiamin@gmail.com<br/><br/> -->
+<!-- 💬 &emsp; Ask me about anything [here](https://github.com/Jiamin88/Jiamin88/issues) -->
+
 
 
 <summary><h2>📊 Github Stats and Activity</h2></summary>
