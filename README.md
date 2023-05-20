@@ -40,7 +40,6 @@
   <a href="https://github.com/Jiamin88">
     <img alt="Jia Min's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiamin88&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-  <br/>
 </a>
 
 <h4 align="center"> 🛠️ My Favorite Tools </h4>
