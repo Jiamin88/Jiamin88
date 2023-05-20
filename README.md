@@ -2,6 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm%20Jia%20Min&fontSize=90&animation=fadeIn&fontAlignY=38" alt="header">
 </div>
 
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/jeejiamin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jiamin88"/>
+ </a>
+ <a href="https://www.instagram.com/jeejiamin/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Jiamin88" />
+ </a> 
+</p>
+
+<p align="center">
+ 📧 &emsp; Reach me anytime: jeejiamin@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Jiamin88/Jiamin88/issues)
+</p>
+
+
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 
 <h3>💻 GitHub Profile Stats</h3>
