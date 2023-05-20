@@ -35,10 +35,10 @@
 
 <a> 
   <a href="https://github.com/Jiamin88">
-    <img alt="Jia Min's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jiamin88&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Jia Min's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jiamin88&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/>
   </a>
   <a href="https://github.com/Jiamin88">
-    <img alt="Jia Min's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiamin88&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Jia Min's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiamin88&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/>
   </a>
 </a>
 
